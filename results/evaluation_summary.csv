@@ -1,0 +1,4 @@
+algorithm,avg_score,best_score,avg_steps,avg_reward,win_rate,death_rate,timeout_rate
+Monte Carlo,907.6,1630,316.26,-2366.68,0.0,0.93,0.07
+SARSA,1701.6,2150,405.49,122.345,0.14,0.82,0.04
+Q-learning,1716.3,2150,364.15,1299.155,0.18,0.78,0.04
