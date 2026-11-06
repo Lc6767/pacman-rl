@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+# play_*_pygame.py 每次執行產生的錄影
+*_pacman_demo*.mp4

@@ -1,0 +1,8 @@
+# 訓練與評估
+numpy
+matplotlib
+Pillow
+# Pygame 畫面展示與錄影（play_*_pygame.py、main_original.py）
+pygame
+imageio
+imageio-ffmpeg
